@@ -1,0 +1,13 @@
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.exe
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.deps.json
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.json
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.dev.json
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfo.cs
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+E:\CURSOS\Digital Innovation One\.NET\starting-.net\2_estrutura_do_programa\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.genruntimeconfig.cache
