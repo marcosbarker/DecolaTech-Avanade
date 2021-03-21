@@ -2,7 +2,7 @@
 
  <p align="center">
     <img height="120px" src="https://github.com/marcosbarker/starting.net/blob/main/assets/logo_dio.png" alt="logo-dio">
-    <img height="120px" src="ahttps://github.com/marcosbarker/starting.net/blob/main/assets/logo_dotnet.png" alt="logo dotnet">
+    <img height="120px" src="https://github.com/marcosbarker/starting.net/blob/main/assets/logo_dotnet.png" alt="logo dotnet">
     </p>
 
 <h1 align="center">Primeiros passos com .NET + C#</h1>
@@ -11,7 +11,7 @@
 
 ## <img  height="40px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Bootcamp .NET Developer
 
-<h3 align="justify">Primeiro contato com a plataforma .NET e sua linguagem C#, aprendendo onde e como utilizá-las</h3>
+<h3 align="justify">Primeiro contato com a plataforma .NET e sua linguagem C#, aprendendo onde e como utilizá-las.</h3>
    
 <br/>
 
