@@ -1,19 +1,17 @@
 <a name="back-to-top"></a>
 
  <p align="center">
-    <img height="100px" src="assets/logo_dio.png" alt="logo-dio">
-    <img height="100px" src="assets/logo_dotnet.png" alt="logo dotnet">
+    <img height="120px" src="assets/logo_dio.png" alt="logo-dio">
+    <img height="120px" src="assets/logo_dotnet.png" alt="logo dotnet">
     </p>
 
-<h3 align="center">Primeiros passos com .NET + C#</h3>
+<h1 align="center">Primeiros passos com .NET + C#</h1>
 
 <br/>
 
-### exemplo
+## <img  height="40px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Bootcamp .NET Developer
 
-<h4 align="justify">
-    exemplo
-    </h4>
+<h3 align="justify">Primeiro contato com a plataforma .NET e sua linguagem C#, aprendendo onde e como utilizá-las</h3>
    
 <br/>
 
