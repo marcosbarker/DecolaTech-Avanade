@@ -4,9 +4,9 @@ using cadastroSeries.interfaces;
 
 namespace cadastroSeries
 {
-    public class SerieRepositorio : IRepositorio<Serie>
-    {
-        private List<Serie> listaSerie = new List<Serie>();
+   public class SerieRepositorio : IRepositorio<Serie>
+	{
+    private List<Serie> listaSerie = new List<Serie>();
 		public void Atualiza(int id, Serie objeto)
 		{
 			listaSerie[id] = objeto;
@@ -36,6 +36,5 @@ namespace cadastroSeries
 		{
 			return listaSerie[id];
 		}
-        
-    }
+	}
 }

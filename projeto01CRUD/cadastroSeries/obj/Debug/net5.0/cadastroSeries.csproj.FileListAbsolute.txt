@@ -1,0 +1,5 @@
+/home/marcos/Desktop/repositorios GITHUB/starting.dotNet/projeto01CRUD/cadastroSeries/obj/Debug/net5.0/cadastroSeries.csproj.AssemblyReference.cache
+/home/marcos/Desktop/repositorios GITHUB/starting.dotNet/projeto01CRUD/cadastroSeries/obj/Debug/net5.0/cadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Desktop/repositorios GITHUB/starting.dotNet/projeto01CRUD/cadastroSeries/obj/Debug/net5.0/cadastroSeries.AssemblyInfoInputs.cache
+/home/marcos/Desktop/repositorios GITHUB/starting.dotNet/projeto01CRUD/cadastroSeries/obj/Debug/net5.0/cadastroSeries.AssemblyInfo.cs
+/home/marcos/Desktop/repositorios GITHUB/starting.dotNet/projeto01CRUD/cadastroSeries/obj/Debug/net5.0/cadastroSeries.csproj.CoreCompileInputs.cache
