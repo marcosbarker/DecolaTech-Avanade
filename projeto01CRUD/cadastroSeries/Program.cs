@@ -6,6 +6,8 @@ namespace cadastroSeries
     {
         static void Main(string[] args)
         {
+            Serie id = new Serie();
+            
             Console.WriteLine("Hello World!");
         }
     }
