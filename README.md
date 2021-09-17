@@ -8,9 +8,9 @@
 <h1 align="center">AVANADE Bootcamp Decola Tech C#</h1>
 
 <br/>
-
-## <img  height="100px" align="center" src="/assets/avanade.png">
-
+<div align="center">
+<img  height="100px"  src="/assets/avanade.png">
+</div>
 <h3 align="justify">O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros talentos poderão ser contratados através do Bootcamp online com a Digital Innovation One, com mais de 40 horas de duração. Depois do Bootcamp, você passará por um processo seletivo e poderá fazer um estágio na Avanade, uma joint venture da Microsoft e Accenture, em um programa de aceleração criado especialmente para você com certificações Microsoft inclusas e um planejamento de carreira.</h3>
    
 <br/>
