@@ -2,10 +2,10 @@
 
  <p align="center">
     <img height="120px" src="https://github.com/marcosbarker/starting.net/blob/main/assets/logo_dio.png" alt="logo-dio">
-    <img height="120px" src="https://github.com/marcosbarker/starting.net/blob/main/assets/logo_dotnet.png" alt="logo dotnet">
+    <img height="120px" src="/assets/logoDecola.jpg" alt="logo decola">
     </p>
 
-<h1 align="center">Primeiros passos com .NET + C#</h1>
+<h1 align="center">AVANADE Bootcamp Decola Tech C#</h1>
 
 <br/>
 
