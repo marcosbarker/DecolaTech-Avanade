@@ -17,9 +17,9 @@
 
 <p align="center">
     <a href="">
-        <img height="400px" src="https://github.com/marcosbarker/starting.net/blob/main/assets/img_exerc.jpg" alt="imagem material na ide">
+        <img height="400px" src="/assets/gif.gif" alt="gif">
     </a>
-        </p>
+</p>
 
 <br/>
 
